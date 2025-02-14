@@ -1,0 +1,1 @@
+Two halves must be printed: one normal and one mirrored.
